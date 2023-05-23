@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.prod {
+  width: 300px;
+  border: 2px solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+.prod-container {
+  display: flex;
+  flex-wrap: wrap;
+}
